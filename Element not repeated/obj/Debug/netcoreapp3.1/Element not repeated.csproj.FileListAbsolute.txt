@@ -1,0 +1,11 @@
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\bin\Debug\netcoreapp3.1\Element not repeated.exe
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\bin\Debug\netcoreapp3.1\Element not repeated.deps.json
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\bin\Debug\netcoreapp3.1\Element not repeated.runtimeconfig.json
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\bin\Debug\netcoreapp3.1\Element not repeated.runtimeconfig.dev.json
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\bin\Debug\netcoreapp3.1\Element not repeated.dll
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\bin\Debug\netcoreapp3.1\Element not repeated.pdb
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\obj\Debug\netcoreapp3.1\Element not repeated.csprojAssemblyReference.cache
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\obj\Debug\netcoreapp3.1\Element not repeated.AssemblyInfoInputs.cache
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\obj\Debug\netcoreapp3.1\Element not repeated.AssemblyInfo.cs
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\obj\Debug\netcoreapp3.1\Element not repeated.dll
+C:\Users\manu\source\repos\Element not repeated\Element not repeated\obj\Debug\netcoreapp3.1\Element not repeated.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Element not repeated/1.0.0": {
+        "runtime": {
+          "Element not repeated.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Element not repeated/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
